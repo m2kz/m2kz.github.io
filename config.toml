@@ -1,5 +1,7 @@
 baseURL = "https://m2kz.github.io"
 languageCode = "en-us"
 title = "m2kz's blog"
-theme = "simple-style"
+theme = "smol"
 author = "m2kz"
+[params]
+	dateFmt="01.02.2006 15:04"
