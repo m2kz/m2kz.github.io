@@ -1,4 +1,5 @@
 baseURL = "https://m2kz.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = 'simple-style'
+title = "m2kz's blog"
+theme = "simple-style"
+author = "m2kz"
